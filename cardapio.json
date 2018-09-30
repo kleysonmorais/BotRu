@@ -1,0 +1,2328 @@
+{
+    "campusList": [
+        {
+            "segunda": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Caf\u00e9",
+                        "itens": [
+                            {
+                                "tipoItem": "Bebidas",
+                                "itens": [
+                                    {
+                                        "nome": "Caf\u00e9"
+                                    },
+                                    {
+                                        "nome": "Leite integral"
+                                    },
+                                    {
+                                        "nome": "Leite de soja"
+                                    },
+                                    {
+                                        "nome": "Suco de caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Produtos de Panifica\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "p\u00e3o franc\u00eas"
+                                    },
+                                    {
+                                        "nome": "Sandu\u00edche (misto)"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frios",
+                                "itens": [
+                                    {
+                                        "nome": "Queijo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamentos",
+                                "itens": [
+                                    {
+                                        "nome": "Margarina"
+                                    },
+                                    {
+                                        "nome": "achocolatado em p\u00f3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frutas",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Outras Prepara\u00e7\u00f5es",
+                                "itens": [
+                                    {
+                                        "nome": "Mingau de milho"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    },
+                                    {
+                                        "nome": "Molho: branco"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mel\u00e3o"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Assado de panela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Farofa Simples"
+                                    },
+                                    {
+                                        "nome": "Repolho verde refogado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Fricass\u00ea de legumes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "nomeCampus": "Gurupi",
+            "terca": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Caf\u00e9",
+                        "itens": [
+                            {
+                                "tipoItem": "Bebidas",
+                                "itens": [
+                                    {
+                                        "nome": "Caf\u00e9"
+                                    },
+                                    {
+                                        "nome": "Leite integral"
+                                    },
+                                    {
+                                        "nome": "Leite de soja"
+                                    },
+                                    {
+                                        "nome": "Suco de caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Produtos de Panifica\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "p\u00e3o franc\u00eas"
+                                    },
+                                    {
+                                        "nome": "Sandu\u00edche (misto)"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frios",
+                                "itens": [
+                                    {
+                                        "nome": "Queijo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamentos",
+                                "itens": [
+                                    {
+                                        "nome": "Margarina"
+                                    },
+                                    {
+                                        "nome": "achocolatado em p\u00f3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frutas",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Outras Prepara\u00e7\u00f5es",
+                                "itens": [
+                                    {
+                                        "nome": "Mingau de milho"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    },
+                                    {
+                                        "nome": "Molho: branco"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mel\u00e3o"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Assado de panela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Farofa Simples"
+                                    },
+                                    {
+                                        "nome": "Repolho verde refogado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Fricass\u00ea de legumes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "quarta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Caf\u00e9",
+                        "itens": [
+                            {
+                                "tipoItem": "Bebidas",
+                                "itens": [
+                                    {
+                                        "nome": "Caf\u00e9"
+                                    },
+                                    {
+                                        "nome": "Leite integral"
+                                    },
+                                    {
+                                        "nome": "Leite de soja"
+                                    },
+                                    {
+                                        "nome": "Suco de caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Produtos de Panifica\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "p\u00e3o franc\u00eas"
+                                    },
+                                    {
+                                        "nome": "Sandu\u00edche (misto)"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frios",
+                                "itens": [
+                                    {
+                                        "nome": "Queijo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamentos",
+                                "itens": [
+                                    {
+                                        "nome": "Margarina"
+                                    },
+                                    {
+                                        "nome": "achocolatado em p\u00f3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frutas",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Outras Prepara\u00e7\u00f5es",
+                                "itens": [
+                                    {
+                                        "nome": "Mingau de milho"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    },
+                                    {
+                                        "nome": "Molho: branco"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mel\u00e3o"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Assado de panela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Farofa Simples"
+                                    },
+                                    {
+                                        "nome": "Repolho verde refogado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Fricass\u00ea de legumes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "quinta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Caf\u00e9",
+                        "itens": [
+                            {
+                                "tipoItem": "Bebidas",
+                                "itens": [
+                                    {
+                                        "nome": "Caf\u00e9"
+                                    },
+                                    {
+                                        "nome": "Leite integral"
+                                    },
+                                    {
+                                        "nome": "Leite de soja"
+                                    },
+                                    {
+                                        "nome": "Suco de caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Produtos de Panifica\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "p\u00e3o franc\u00eas"
+                                    },
+                                    {
+                                        "nome": "Sandu\u00edche (misto)"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frios",
+                                "itens": [
+                                    {
+                                        "nome": "Queijo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamentos",
+                                "itens": [
+                                    {
+                                        "nome": "Margarina"
+                                    },
+                                    {
+                                        "nome": "achocolatado em p\u00f3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frutas",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Outras Prepara\u00e7\u00f5es",
+                                "itens": [
+                                    {
+                                        "nome": "Mingau de milho"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    },
+                                    {
+                                        "nome": "Molho: branco"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mel\u00e3o"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Assado de panela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Farofa Simples"
+                                    },
+                                    {
+                                        "nome": "Repolho verde refogado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Fricass\u00ea de legumes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "sexta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Caf\u00e9",
+                        "itens": [
+                            {
+                                "tipoItem": "Bebidas",
+                                "itens": [
+                                    {
+                                        "nome": "Caf\u00e9"
+                                    },
+                                    {
+                                        "nome": "Leite integral"
+                                    },
+                                    {
+                                        "nome": "Leite de soja"
+                                    },
+                                    {
+                                        "nome": "Suco de caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Produtos de Panifica\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "p\u00e3o franc\u00eas"
+                                    },
+                                    {
+                                        "nome": "Sandu\u00edche (misto)"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frios",
+                                "itens": [
+                                    {
+                                        "nome": "Queijo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamentos",
+                                "itens": [
+                                    {
+                                        "nome": "Margarina"
+                                    },
+                                    {
+                                        "nome": "achocolatado em p\u00f3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Frutas",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Outras Prepara\u00e7\u00f5es",
+                                "itens": [
+                                    {
+                                        "nome": "Mingau de milho"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    },
+                                    {
+                                        "nome": "Molho: branco"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mel\u00e3o"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Assado de panela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Farofa Simples"
+                                    },
+                                    {
+                                        "nome": "Repolho verde refogado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Fricass\u00ea de legumes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "segunda": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "acelga"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Cuscuz"
+                                    },
+                                    {
+                                        "nome": "Cenoura com couve-flor"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mexerica"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Banana"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tabule"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Berinjela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Ovo"
+                                    },
+                                    {
+                                        "nome": "F\u00edgado acebolado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Lentilha ao molho"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "nomeCampus": "Palmas",
+            "terca": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "acelga"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Cuscuz"
+                                    },
+                                    {
+                                        "nome": "Cenoura com couve-flor"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mexerica"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Banana"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tabule"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Berinjela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Ovo"
+                                    },
+                                    {
+                                        "nome": "F\u00edgado acebolado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Lentilha ao molho"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "quarta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "acelga"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Cuscuz"
+                                    },
+                                    {
+                                        "nome": "Cenoura com couve-flor"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mexerica"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Banana"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tabule"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Berinjela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Ovo"
+                                    },
+                                    {
+                                        "nome": "F\u00edgado acebolado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Lentilha ao molho"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "quinta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "acelga"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Cuscuz"
+                                    },
+                                    {
+                                        "nome": "Cenoura com couve-flor"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mexerica"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Banana"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tabule"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Berinjela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Ovo"
+                                    },
+                                    {
+                                        "nome": "F\u00edgado acebolado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Lentilha ao molho"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "sexta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tomate"
+                                    },
+                                    {
+                                        "nome": "acelga"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Cuscuz"
+                                    },
+                                    {
+                                        "nome": "Cenoura com couve-flor"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Mexerica"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Arroz integral"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Banana"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Tabule"
+                                    },
+                                    {
+                                        "nome": "Chuchu"
+                                    },
+                                    {
+                                        "nome": "couve"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Berinjela"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Goiaba"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Ovo"
+                                    },
+                                    {
+                                        "nome": "F\u00edgado acebolado"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Lentilha ao molho"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "segunda": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Repolho refogado a primavera"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Beterraba cozida"
+                                    },
+                                    {
+                                        "nome": "acelga com tomate"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Abobrinha recheada com prote\u00edna de soja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Carne mo\u00edda ao molho com cenoura"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Pepino"
+                                    },
+                                    {
+                                        "nome": "acelga com alface"
+                                    },
+                                    {
+                                        "nome": "Salada de gr\u00e3o-de-bico"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Ma\u00e7\u00e3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Feij\u00e3o tropeiro"
+                                    },
+                                    {
+                                        "nome": "Chuchu saut\u00e9"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "nomeCampus": "Aragua\u00edna",
+            "terca": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Repolho refogado a primavera"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Beterraba cozida"
+                                    },
+                                    {
+                                        "nome": "acelga com tomate"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Abobrinha recheada com prote\u00edna de soja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Carne mo\u00edda ao molho com cenoura"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Pepino"
+                                    },
+                                    {
+                                        "nome": "acelga com alface"
+                                    },
+                                    {
+                                        "nome": "Salada de gr\u00e3o-de-bico"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Ma\u00e7\u00e3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Feij\u00e3o tropeiro"
+                                    },
+                                    {
+                                        "nome": "Chuchu saut\u00e9"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "quarta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Repolho refogado a primavera"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Beterraba cozida"
+                                    },
+                                    {
+                                        "nome": "acelga com tomate"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Abobrinha recheada com prote\u00edna de soja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Carne mo\u00edda ao molho com cenoura"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Pepino"
+                                    },
+                                    {
+                                        "nome": "acelga com alface"
+                                    },
+                                    {
+                                        "nome": "Salada de gr\u00e3o-de-bico"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Ma\u00e7\u00e3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Feij\u00e3o tropeiro"
+                                    },
+                                    {
+                                        "nome": "Chuchu saut\u00e9"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "quinta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Repolho refogado a primavera"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Beterraba cozida"
+                                    },
+                                    {
+                                        "nome": "acelga com tomate"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Abobrinha recheada com prote\u00edna de soja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Carne mo\u00edda ao molho com cenoura"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Pepino"
+                                    },
+                                    {
+                                        "nome": "acelga com alface"
+                                    },
+                                    {
+                                        "nome": "Salada de gr\u00e3o-de-bico"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Ma\u00e7\u00e3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Feij\u00e3o tropeiro"
+                                    },
+                                    {
+                                        "nome": "Chuchu saut\u00e9"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "sexta": {
+                "data": "2018-09-24",
+                "refeicoes": [
+                    {
+                        "nomeRefeicao": "Almo\u00e7o",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Macarr\u00e3o ao Alho e \u00d3leo"
+                                    },
+                                    {
+                                        "nome": "Repolho refogado a primavera"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Caju"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Laranja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Beterraba cozida"
+                                    },
+                                    {
+                                        "nome": "acelga com tomate"
+                                    },
+                                    {
+                                        "nome": "Alface"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Abobrinha recheada com prote\u00edna de soja"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "Carne mo\u00edda ao molho com cenoura"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nomeRefeicao": "Jantar",
+                        "itens": [
+                            {
+                                "tipoItem": "Acompanhamento",
+                                "itens": [
+                                    {
+                                        "nome": "Arroz"
+                                    },
+                                    {
+                                        "nome": "Feij\u00e3o carioca"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Salada",
+                                "itens": [
+                                    {
+                                        "nome": "Pepino"
+                                    },
+                                    {
+                                        "nome": "acelga com alface"
+                                    },
+                                    {
+                                        "nome": "Salada de gr\u00e3o-de-bico"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Suco",
+                                "itens": [
+                                    {
+                                        "nome": "Acerola"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Sobremesa",
+                                "itens": [
+                                    {
+                                        "nome": "Ma\u00e7\u00e3"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Prato Principal",
+                                "itens": [
+                                    {
+                                        "nome": "fricasse de frango"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Op\u00e7\u00e3o Vegetariana",
+                                "itens": [
+                                    {
+                                        "nome": "Torta de legumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tipoItem": "Guarni\u00e7\u00e3o",
+                                "itens": [
+                                    {
+                                        "nome": "Feij\u00e3o tropeiro"
+                                    },
+                                    {
+                                        "nome": "Chuchu saut\u00e9"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
