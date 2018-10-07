@@ -11,9 +11,9 @@ class ApiModel:
         dump = json.dumps(data)
         self.load = json.loads(dump)
         campusList = self.load['campusList']
-        self.Gurupi = Campus(campusList[0])
+        # self.Gurupi = Campus(campusList[0])
         self.Palmas = Campus(campusList[1])
-        self.Araguaina = Campus(campusList[2])
+        # self.Araguaina = Campus(campusList[2])
 
 class Campus:
 
